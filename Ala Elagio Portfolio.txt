@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AME Resume</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="resume.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Ala M. Elagio, LPT, MAEd</h1>
+</div>
+
+<div class="topnav">
+  <a href="#">HOME</a>
+  <a href="#">Curriculum Vitae</a>
+  <a href="#">Personal Details</a>
+  <a href="#">Teaching Experience</a>
+  <a href="#">Leadership/Coordinatorship</a>
+  <a href="#">Programs/Projects</a>
+  <a href="#">Community Service</a>
+  
+ 
+</div>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="\C:\Users\alael\OneDrive\Desktop\My Resume\ala.jpg" style="width:100%" alt="ala">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2>Ala M. Elagio</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>High School Teacher (Teacher III)</p>
+	 <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Learning Resource Coordinator</p>
+	 <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Alternative Delivery Coordinator</p> 
+	 <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Curriculum and Instruction Principle Leader</p> 
+	 <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Grade 10 - Adviser</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>340 Laug Mexico, Pampanga, Philippines</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>alaelagiolpt@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(+63) 999 122 1134</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Microsoft Office</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <p>Google Suite</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">
+              <div class="w3-center w3-text-white">100%</div>
+            </div>
+          </div>
+          <p>Web Page Design (HTML/CSS/Java/WordPress)</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <p>Media/Video Editting/ Photography</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+	  <p>Troubleshooting</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+	 <p>Driving</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <p>Tagalog/Filipino</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <p>Kapampangan</p>
+          <div class="w3-light-grey w3-round-xlarge">
+           <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+          <br>
+
+  	<p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Certification</b></p>
+          <p>Professional Regulatory Commission (PRC)</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">Licensed Professional Teacher (LPT)</div>
+          </div>
+          <p>TEFL Professional Institute – Teacher Record</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">Teaching English as a Foreign Language (TEFL)</div>
+          </div>
+          <p>Technical Education and Skills Development Authority (TESDA), Philippines - National Certification (NC II)</p>
+          <div class="w3-light-grey w3-round-xlarge">
+           <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">NC II-Cookery/Food and Consumer Sciences, Certificate Number: 15035402022076</div><br>
+	  <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">NC II Hairdressing, Certificate No. 18035402001463</div><br>
+	  <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">NC II Beauty Care Services (Nail), Certificate No. 
+1803542002974</div><br>	<br>	
+          </div>
+
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+ 	<div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-10"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xlarge w3-text-teal"></i>Core Competencies</h2>
+          <p>Content Knowledge; Pedagogical Skills; Classroom Management; Differentiated Instruction; Laboratory Management; Curriculum Development; Assessment and Evaluation; Technology 		Integration; Critical Thinking; Communication Skills; Adaptability; Student Engagement; Inquiry-Based Teaching; Safety Protocols; Collaborative Skills; Problem Solving; 		Creativity; Classroom Leadership; Organizational Skills; and Continuous Learning..</p>
+   
+        </div>
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h4 class="w3-opacity"><b>Madapdap Resettlement High School</b></h4>
+		<h5 class="w3-opacity"><b>CTE Consumer Science/ICT/Computer Science High School Teacher</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2018 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>7th and 10th CTE Teacher, Madapdap Resettlement High School, June 2018 up to Present, Philippines :
+Teaching Information Communication Technology and Consumer Science in Grade 10, Computer Science in STEM Grade 7 class. I have excelled in providing an immersive, skill-centric educational experience, equipping students in the Philippines for both academic achievements and real-world challenges. My role involves the creation and execution of an innovative CTE curriculum, which incorporates advanced teaching methodologies and practical learning activities, thereby significantly boosting student engagement and hands-on skill development. I have been instrumental in introducing various vocational training programs, carefully tailored to meet local industry demands, which have been pivotal in enhancing students' technical abilities and smoothing their transition from education to employment. My approach to teaching is characterized by a keen adaptability to various learning styles and needs, ensuring an inclusive educational environment that maximizes each student's potential, a commitment reflected in consistently high student performance and satisfaction metrics.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h4 class="w3-opacity"><b>Brightstar Christian Academy</b></h4>
+		<h5 class="w3-opacity"><b>Elementary and Middle School Teacher</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2016 - May 2018</h6>
+          <p>5th-6th Grade Food and Consumer Sciences Teacher, Brightstar Christian Academy, June 2016-May 2018, Philippines:I specialized in introducing young learners in the Philippines to the essentials of nutrition, culinary arts, and consumer education. My approach to teaching was centered around an interactive, hands-on  learning experience complemented by a solid theoretical base, ensuring students not only grasped the concepts but were also able to apply them in practical scenarios. I crafted and executed a comprehensive curriculum  focused on promoting healthy eating habits, fundamental cooking skills, and savvy consumer practices, all tailored to the comprehension and interests of 5th and 6th graders. This approach significantly enhanced student engagement and participation, highlighting the subject's relevance and enjoyment. In collaboration with parents  and school administrators, I initiated and led several successful projects, such as student-led cooking demonstrations and community food fairs, which expanded learning opportunities beyond the classroom and strengthened the students' practical connection to the curriculum.I also handled Science, Math, Social Studies class. 
+</p>
+
+<div class="w3-container">
+          <h4 class="w3-opacity"><b>Division of Mabalacat City</b></h4>
+		<h5 class="w3-opacity"><b>SPED Class Field Training</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>January 2023 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>Special Education Intern Teacher, Mabalacat Elementary School, Dau Elementary School and Mabalacat Community High School, November 2023 - February 2024, Philippines: I dedicated myself to supporting and enhancing the learning experiences of students with diverse educational needs. This role involved implementing specialized teaching strategies and creating an inclusive classroom environment to foster the academic and social growth of each student.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Leadership and Student Club Roles</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2018 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>As the Learning Resource Coordinator at Madapdap Resettlement High School since June 2018, I have 
+played a key role in developing and managing educational resources to align with curriculum goals, thereby 
+enhancing learning experiences through innovative resource curation and effective use of technology. Serving 
+as an Evaluator for learning resources from 3rd to 12th grade, my expertise is in assessing and selecting 
+educational materials that meet diverse curricular standards and effectively engage students across various 
+academic levels. Additionally, my versatility is evident in coaching roles across multiple disciplines including 
+photojournalism, badminton, culinary skills in Technolympic Cooking Competition, and ICT areas such as video 
+editing and web page designing, where I guide students in honing both their technical and creative skills. 
+Furthermore, as a National Learning Camp Teacher, I contribute significantly to the holistic development of 
+students by delivering specialized educational content and employing innovative teaching methods at a national 
+camp, focused on enhancing diverse learning experiences </p><br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Technological University of the Philippines</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2000 -Mar 2004</h6>
+          <p>Bachelor of Science in Industrial Education</p>
+	  <p>Major : Computer Education</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Saint Anthony College of Technology</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2019 - Dec 2022</h6>
+          <p>Master of Arts in Education</p>
+	  <p>Major: Educational Management</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>National University</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dec 2022- <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>Master of Arts in Education</p>
+ 	  <p>Major: Special Education</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <i class="fa fa-facebook-official w3-hover-opacity href="https://www.facebook.com/ala.elagio.58/"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+ </footer>
+
+</body>
+</html>
